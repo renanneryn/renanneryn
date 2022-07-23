@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @renanneryn
-- 👀 I’m interested in my first job i
-- 🌱 I’m currently learning Web Development - Front END
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m looking for work in technology area
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me renanneryn@gmail.com // @renanneryn
 
 <!---
